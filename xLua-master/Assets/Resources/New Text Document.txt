@@ -1,0 +1,3 @@
+function start()
+CS.UnityEngine.Debug.Log("a")
+end
